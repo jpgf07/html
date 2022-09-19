@@ -25,9 +25,8 @@ jobs:
 #        path: |
 #          /home/runner/work/quatrotest/quatrotest/myproject/public/markdown/
 #          /home/runner/work/quatrotest/quatrotest/myproject/public/site_libs
-       
-       
-/home/runner/work/html/html/myproject
+ 
+# /home/runner/work/html/html/myproject
 
 
 
