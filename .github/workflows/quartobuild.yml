@@ -20,13 +20,15 @@ jobs:
     
     
     
-  #    - uses: actions/upload-artifact@v3
-  #      with:
-  #        name: my-artifact
-  #        path: |
-  #          /home/runner/work/quatrotest/quatrotest/myproject/public/markdown/
-  #          /home/runner/work/quatrotest/quatrotest/myproject/public/site_libs
+#    - uses: actions/upload-artifact@v3
+#      with:
+#        name: my-artifact
+#        path: |
+#          /home/runner/work/quatrotest/quatrotest/myproject/public/markdown/
+#          /home/runner/work/quatrotest/quatrotest/myproject/public/site_libs
        
+       
+/home/runner/work/html/html/myproject
 
 
 
